@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+         url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+  }
+
+body{
+
+}
+
+.nav{
+    font-size: 12px;
+    background-color:white;
+}
+
+.dir{
+    direction: rtl;
+    
+}
+
+.topnav a {
+   
+    color: black;
+}
+
+.text{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+}
+
+.text2{
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(126, 122, 119);
+}
+.input{
+    padding-top: 80px;
+    text-align: left;
+}
+.font{
+    font-family: 'B612';
+    
+}
+.caption2{
+    text-align: left;
+    color:rgb(59, 59, 59);
+    
+}
+.dir2{
+    text-align: center;
+}
+.marginicon{
+    margin-top: 60px;
+}
+.bold{
+    font-weight: bold;
+}
+.fonttcolor{
+    font-size: 15px;
+    color: rgb(126, 122, 119);
+}
+
+.borderbtn{
+    border-width: 2px;
+    border-right-color:  rgb(126, 122, 119);
+    
+}
